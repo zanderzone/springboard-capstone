@@ -1,0 +1,24 @@
+# Springboard Capstone Project Proposals
+
+## Determining if an NBA player will be out of the NBA
+### Problem:
+This capstone project will attempt to understand the relationship between an NBA players age, number of minutes, position and whether they will remain a player in the NBA the next season.  This could help players and agents make sound financial planning surrounding an exit of the NBA.
+
+### Data
+- Collect player performance data from both dataminers.com and basketball-reference.com.  Both these sites should give me access the last seasons of players before they exit the NBA.
+
+## Commuting and Employment
+### Problem:
+This capstone project will attempt to understand the commuting behaviors (distance, commuting from other counties, etc) and employment rates within the state of California.  This may help the state or companies provide commuting services.
+
+### Data
+- State of California labor market data at edd.ca.gov.
+
+
+## College debt
+### Problem:
+This capstone project will attempt to understand the relationship between higher education debt burden, selectivity of school, income after graduation and the default rate.  This can help students and parents understand the financial impact of going to a selective vs a non-selective institution.
+
+### Data
+- The primary source of data will be at https://collegescorecard.ed.gov.
+- There may also be data available to supplement the data at Data.gov.
